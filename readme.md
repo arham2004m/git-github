@@ -7,7 +7,8 @@ C - Commited
 -> .gitignore file : you enter name of any file in this git stop monitoring it
 # Commands you need to know
 ->git status -s => to know current status of unstaged and staged files
-->git log oneline => to know current status of saved points
+->git log --oneline => to know current status of saved points or how many saved checkpoints
+->git log --oneline --graph => for graphical representation
 # Managing your own projects
 -> Managing locally - git
 -> Managing over internet - github(central codebase)
