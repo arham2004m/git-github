@@ -4,6 +4,7 @@ stages:-
 U - untracked 
 A - added or staged
 C - Commited
+-> .gitignore file : you enter name of any file in this git stop monitoring it
 # Commands you need to know
 ->git status -s => to know current status of unstaged and staged files
 ->git log oneline => to know current status of saved points
