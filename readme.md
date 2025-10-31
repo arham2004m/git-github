@@ -10,11 +10,11 @@ C - Commited
 # Managing your own projects
 -> Managing locally - git
 -> Managing over internet - github(central codebase)
-making git available in our project - git init;
-making a checkpoint or saved point - git commit -m "Some Message";
-adding files - git add <-filename> or git add .  ;
-staging them - when add command is exec. changes are staged ;
-commiting them - git commit -m "some message" ;
-going back to some previous saved point - git checkout "commitID" or git reset --hard/soft/mixed HEAD~2(i.e.RollbackCount)
-logging everything - git log or git log --oneline or git log --graph
-reverting back/forward to the previous saved point - git checkout "commitID" or git reset --hard/soft/mixed HEAD~2(i.e.RollbackCount)
+-> making git available in our project - git init
+-> making a checkpoint or saved point - git commit -m "Some Message"
+-> adding files - git add <-filename> or git add . 
+-> staging them - when add command is exec. changes are staged
+-> commiting them - git commit -m "some message"
+-> going back to some previous saved point - git checkout "commitID" or git reset --hard/soft/mixed HEAD~2(i.e.RollbackCount)
+-> logging everything - git log or git log --oneline or git log --graph
+-> reverting back/forward to the previous saved point - git checkout "commitID" or git reset --hard/soft/mixed HEAD~2(i.e.RollbackCount)
