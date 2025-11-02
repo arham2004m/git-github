@@ -18,4 +18,4 @@ C - Commited
 -> staging them - when add command is exec. changes are staged
 -> commiting them - git commit -m "some message"
 -> logging everything - git log or git log --oneline or git log --graph
--> reverting back/forward to the previous saved point - git checkout "commitID" or git reset --hard/soft/mixed HEAD~2(i.e.RollbackCount)
+-> reverting back/forward to the previous saved point - git checkout "commitID" or git reset --hard/soft/mixed HEAD~2(i.e.RollbackCount) 
